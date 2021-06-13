@@ -1,4 +1,4 @@
-## BusinessGo-Web
+## Miniweb-API
 
 ### Comandos disponibles
 
