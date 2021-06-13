@@ -10,4 +10,4 @@
 
 ### Extensiones de VSCode recomendadas:
 - vscode-styled-jsx
-- vscode-styled-jsx
+- divlo.vscode-styled-jsx-languageserver
